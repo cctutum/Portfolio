@@ -1,4 +1,4 @@
 # Cem C. Tutum's Portfolio 
 
-The PDF document ([Cem Tutum - Portfolio.pdf](Cem-Tutum_Portfolio.pdf)) in this repository is has a small sample of my work that I have done in academia and industry.
+This link: [Cem Tutum - Portfolio](Cem-Tutum_Portfolio.pdf)) can be used to view a small sample of my work that I have done in academia and industry.
 Sensitive information for the industrial projects is not included.
